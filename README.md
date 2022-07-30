@@ -25,7 +25,7 @@ $ python run_enc.py
 ## Cara Update
 ```php
 $ cd
-$ cd Igh
+$ cd IGH
 $ ls ( L kecil )
 $ git pull
 $ python run.py
